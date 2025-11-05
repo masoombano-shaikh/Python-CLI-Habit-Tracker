@@ -21,7 +21,7 @@ A command-line interface (CLI) Habit Tracker built in Python to help you create,
 
 1. Clone the repository:
 ```bash
-
+https://github.com/masoombano-shaikh/Python-CLI-Habit-Tracker.git
 ```
 
 2. (Optional) Create a virtual environment and activate it:
@@ -103,4 +103,4 @@ pytest
 ## Development and Contributions:
 Built with Python and designed with a easy architecture for future scalability that can track progress from the terminal.
 
----
+---# Python-CLI-Habit-Tracker
